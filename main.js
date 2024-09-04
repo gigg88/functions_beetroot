@@ -70,6 +70,7 @@ const products = {
   console.log(products);
 
   
+// prompting to add a product to the shopping cart
 
   const shoppingCartArray = [];
 
@@ -86,5 +87,7 @@ const products = {
   }
 
   addProductToCart();
+
+  
 
   
